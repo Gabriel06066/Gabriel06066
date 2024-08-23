@@ -1,8 +1,8 @@
-## Hi there 👋
+   Bem vindo ao meu perfil!
 
-<!--
-**Gabriel06066/Gabriel06066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Gabriel Braga Mendonça de Oliveira
 
+-Eu est
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
